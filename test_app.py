@@ -1,4 +1,3 @@
-import pytest
 from streamlit_qr_generator import generate_qr_code
 
 def test_qr_code_generation():
